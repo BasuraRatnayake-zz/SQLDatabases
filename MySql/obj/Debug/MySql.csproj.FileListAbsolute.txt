@@ -1,0 +1,12 @@
+D:\Libraries\My Creations\Database\MySql\MySql\bin\Debug\Infinitum.Databases.dll.config
+D:\Libraries\My Creations\Database\MySql\MySql\bin\Debug\Infinitum.Databases.dll
+D:\Libraries\My Creations\Database\MySql\MySql\bin\Debug\EntityFramework.dll
+D:\Libraries\My Creations\Database\MySql\MySql\bin\Debug\EntityFramework.SqlServer.dll
+D:\Libraries\My Creations\Database\MySql\MySql\bin\Debug\MySql.Data.dll
+D:\Libraries\My Creations\Database\MySql\MySql\bin\Debug\System.Data.SQLite.dll
+D:\Libraries\My Creations\Database\MySql\MySql\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Libraries\My Creations\Database\MySql\MySql\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Libraries\My Creations\Database\MySql\MySql\bin\Debug\EntityFramework.xml
+D:\Libraries\My Creations\Database\MySql\MySql\bin\Debug\EntityFramework.SqlServer.xml
+D:\Libraries\My Creations\Database\MySql\MySql\bin\Debug\System.Data.SQLite.xml
+D:\Libraries\My Creations\Database\MySql\MySql\obj\Debug\Infinitum.Databases.dll
